@@ -47,10 +47,7 @@ I'm a Data Science Engineer passionate about solving real-world problems through
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: [Your LinkedIn URL](https://www.linkedin.com/)
-- 📧 Email: your.email@example.com
-- 💻 GitHub: [Your GitHub Profile](https://github.com/)
-
+- 💼 LinkedIn: [Your LinkedIn URL]([https://www.linkedin.com/](https://www.linkedin.com/in/moaad-khettabi/))
 ---
 
 *Always learning, building, and exploring new ways to turn data into decisions.*
