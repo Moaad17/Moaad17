@@ -41,9 +41,9 @@ I'm a Data Science Engineer passionate about solving real-world problems through
 
 ## 📂 Featured Projects
 
-- **Predictive Monitoring:** Forecasting API performance and detecting anomalies in monitoring metrics.
-- **Hybrid Recommendation System:** Combining recommendation models to improve personalization and address cold-start challenges.
-- **Supply Chain Optimization:** Integrating demand forecasting with mathematical optimization for inventory and capacity planning.
+- **Predictive Monitoring:** Forecasting API performance and detecting anomalies in monitoring metrics.(private)
+- **Hybrid Recommendation System:** Combining recommendation models to improve personalization and address cold-start challenges.(private)
+- **Supply Chain Optimization:** Integrating demand forecasting with mathematical optimization for inventory and capacity planning.(Public)
 
 ## 📫 Let's Connect
 
